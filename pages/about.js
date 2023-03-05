@@ -7,6 +7,7 @@ function About() {
         <title>About</title>
       </Head>
       <h1>Merhaba</h1>
+      <h5>Test denemesi yapıyorum..</h5>
     </Layout>
   )
 }
