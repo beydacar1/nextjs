@@ -1,5 +1,5 @@
-import '../styles/app.css'
-import '../styles/navigation.css'
+// import '../styles/app.css'
+// import '../styles/navigation.css'
 
 
 export default function MyApp({ Component, pageProps }) {
